@@ -1,2 +1,2 @@
-# wordpress-login-by-tencent-ciam
-Best practice and sample code to enhance the security and login experience of a WordPress site by protecting it with Tencent CIAM.
+# 使用 Tencent CIAM 对 WordPress 站点进行登录保护
+
